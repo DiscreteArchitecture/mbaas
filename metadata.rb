@@ -6,4 +6,4 @@ description 'Installs/Configures mbaas'
 long_description 'Installs/Configures mbaas'
 version '1.2.0'
 
-depends 'newrelic', '~> 0.5.8'
+depends 'newrelic', '~> 2.17.0'
